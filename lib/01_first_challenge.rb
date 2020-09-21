@@ -13,7 +13,13 @@ def first_challenge
        :age => "15"
      },
      :hero_friends =>[{
-       
+       :name => "Mercutio",
+       :age => "18"
+       :attitude => "hot-headed"},
+       {
+       :name => "Benvolio"
+       :age => "17"
+       :attitude => "worried"
      }]
     
    }
