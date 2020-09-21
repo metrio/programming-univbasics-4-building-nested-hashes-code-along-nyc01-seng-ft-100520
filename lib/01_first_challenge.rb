@@ -21,6 +21,6 @@ def first_challenge
        :age => "17"
        :attitude => "worried"
      }]
-    
+    ]
    }
 end
