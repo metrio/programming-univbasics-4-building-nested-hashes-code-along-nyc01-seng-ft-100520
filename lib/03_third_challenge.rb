@@ -11,7 +11,8 @@ def third_challenge
         },
       :hero => {
         :name => "Romeo",
-        :age => "16"
+        :age => "16",
+        :status => "alive"
         },
       :hero_friends => []
    }, 
@@ -26,7 +27,8 @@ def third_challenge
         },
       :heroine => {
         :name => "Juliet",
-        :age => "14"
+        :age => "14",
+        :status => "alive"
         },
       :heroine_friends => []
    }
