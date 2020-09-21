@@ -5,7 +5,7 @@ def first_challenge
        :age => "53"
    },
      :matriarch =>{
-       :name => "Lady Montague"
+       :name => "Lady Montague",
        :age => "54"
      },
      :hero =>{
@@ -14,13 +14,13 @@ def first_challenge
      },
      :hero_friends =>[{
        :name => "Mercutio",
-       :age => "18"
+       :age => "18",
        :attitude => "hot-headed"},
        {
-       :name => "Benvolio"
-       :age => "17"
+       :name => "Benvolio",
+       :age => "17",
        :attitude => "worried"
      }]
-    ]
-   }
+   },
+   
 end
